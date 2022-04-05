@@ -1,0 +1,17 @@
+body{
+    background: white;
+    color: white;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:green;
+    background-size: 100%;
+    background-position: center;
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+}
